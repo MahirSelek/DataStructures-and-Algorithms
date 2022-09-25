@@ -1,0 +1,11 @@
+Linked lists are an ordered collection of objects. 
+So what makes them different from normal lists? Linked lists differ from lists in the way that they store elements in memory.
+While lists use a contiguous memory block to store references to their data, linked lists store references as part of their own elements.
+
+Each element of a linked list is called a Node, and every node has two different fields:
+-DATA : contains the value to be stored in the node.
+-NEXT : contains a reference to the next node on the list.
+
+REFERENCES
+-https://realpython.com/linked-lists-python/
+-https://web.karabuk.edu.tr/hakankutucu/BLM227/VER%C4%B0%20YAPILARI%20v.6.3.pdf
